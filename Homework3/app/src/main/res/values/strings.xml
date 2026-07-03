@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">android-summer-practice-26</string>
+
+    <!-- Users List-->
+    <string name="users_list_last_seen_pattern">Last seen: %1$s</string>
+
+    <!-- User Profile -->
+    <string name="user_profile_content_desc">User profile image</string>
+    <string name="user_profile_no_desc">User description is empty</string>
+
+    <!-- Auth Screen-->
+    <string name="auth_screen_button">Авторизация</string>
+    <string name="auth_screen_user_email_error">Некорректный адрес электронной почты</string>
+    <string name="auth_screen_user_password_error">Пароль не соответствует требованиям</string>
+</resources>
